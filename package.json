@@ -1,0 +1,13 @@
+{
+  "name": "walterbot.dev",
+  "version": "1.0.0",
+  "description": "A simple HTML project for walterbot.dev",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser.'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
